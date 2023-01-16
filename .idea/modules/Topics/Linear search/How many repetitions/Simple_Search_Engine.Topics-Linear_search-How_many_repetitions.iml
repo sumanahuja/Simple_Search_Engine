@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Linear_search-How_many_repetitions" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Linear search/How many repetitions" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Simple Search Engine" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Linear search/How many repetitions">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Linear search/How many repetitions/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Linear search/How many repetitions/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Linear search/How many repetitions/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

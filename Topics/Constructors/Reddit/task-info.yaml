@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    class Site(val address: String, val foundationYear: Int)
+
+    // Write the makeReddit function here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6244#comment
+status: Solved
+record: -1

@@ -1,0 +1,45 @@
+<h2>Linear search</h2>
+<h5 id="the-linear-search-algorithm" style="text-align: center;">The linear search algorithm</h5>
+
+<p><strong>Linear search</strong> (or sequential search) is a simple algorithm for searching an element with a specific value in the array. The algorithm checks each array element until it finds the target value or reaches the array end.</p>
+
+<p>In the worst case, it performs exactly <span class="math-tex">\(n\)</span> comparisons, where <span class="math-tex">\(n\)</span> is the length of the input array. The time complexity is <span class="math-tex">\(O(n)\)</span>.</p>
+
+<h5 id="example" style="text-align: center;">Example</h5>
+
+<p>Suppose we have an array of <span class="math-tex">\(6\)</span> elements:</p>
+
+<p style="text-align: center;"><img alt="" height="83" name="Linear searh 1.svg" src="https://ucarecdn.com/4aa6ed4c-05ed-4c89-8be7-8847a94956cd/" width="296"></p>
+
+<p>Our goal is to find the index of an element with the value <span class="math-tex">\(20\)</span>. We will start from the first element with index <span class="math-tex">\(1\)</span> and compare each array element with the target value until we find the target value.</p>
+
+<p style="text-align: center;"><img alt="" height="290" name="Linear search 2.svg" src="https://ucarecdn.com/5d5a3fed-00e2-4401-b41e-17b263bb857f/" width="637"></p>
+
+<p>As you may see, the linear search is a simple algorithm with an important advantage: it can search in unsorted arrays.</p>
+
+<h5 id="pseudocode-of-the-linear-search-function" style="text-align: center;">Pseudocode of the linear search function</h5>
+
+<pre><code class="java">function found_value(array, value):
+    for index in [1, len(array)]:      // looking through the array
+        if array[index] == value then  // if the current value is equal to the value we are 
+                                       // searching for,
+            return index               // then we return the index of this element;
+    return -1                          // if the sought value is not in the array, we return -1</code></pre>
+
+<h5 id="possible-modifications" style="text-align: center;">Possible modifications</h5>
+
+<p>Possible modifications of the linear search algorithm are:</p>
+
+<ul>
+	<li>check whether the array contains an element, return <code class="java">true</code> or <code class="java">false</code>;</li>
+	<li>search for the first or the last occurrence of an element in the array;</li>
+	<li>count all occurrences of an element in the array;</li>
+	<li>search for all occurrences of an element in the array;</li>
+	<li>search for an element in the subarray of the array with the given indices.</li>
+</ul>
+
+<p>Also, the linear search algorithm can be used as a subroutine in more complex algorithms. For example, to count all occurrences of all array elements in another array.</p>
+
+<p>If we know that our array is <strong>sorted</strong> (e.g. in ascending order), we could modify the linear search algorithm. If the next checked element is greater than the target value, it means we will not find the value in the rest of the array, and the algorithm should stop. In the next topics, we will examine how to make searching in sorted arrays more effective.</p>
+
+<p><a target="_blank" target="_blank" target="_blank" target="_blank" target="_blank" href="https://www.cs.usfca.edu/~galles/visualization/Search.html" rel="noopener noreferrer nofollow">Here is a visualization of the algorithm.</a> To see it, enter the target value and select Linear Search at the top of the page.</p>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task/out" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Implicit constructor" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Init usage" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Pets" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Point2D" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Reddit" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Area printer" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Keyword" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/New planet" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Operations on val objects" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Possible properties types" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Currencies" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Danger level" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Days of the week" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Properties of Enum" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enum/valueOf() method" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Beyond the word" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Correct jumping" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Getting letters from the Alphabet" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Jumping out" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Whole truth about continue" />
+            <option value="$PROJECT_DIR$/Topics/Linear search/Element is in the array" />
+            <option value="$PROJECT_DIR$/Topics/Linear search/How many repetitions" />
+            <option value="$PROJECT_DIR$/Topics/Linear search/Theory" />
+            <option value="$PROJECT_DIR$/Topics/List/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Topics/List/Sum of numbers" />
+            <option value="$PROJECT_DIR$/Topics/List/The second of T" />
+            <option value="$PROJECT_DIR$/Topics/List/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Map/Creation of Map Entry" />
+            <option value="$PROJECT_DIR$/Topics/Map/Map has elements" />
+            <option value="$PROJECT_DIR$/Topics/Map/Map with buildMap" />
+            <option value="$PROJECT_DIR$/Topics/Map/Strings to Map" />
+            <option value="$PROJECT_DIR$/Topics/Map/Sum of values" />
+            <option value="$PROJECT_DIR$/Topics/Map/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Adding" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Banana" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Mutable List" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/MutableList properties" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Remove us" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/About Mutable Map" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/The output of two maps" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Wish list" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Choose the correct ones" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The sequence 1 2 2 3 3 3" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The sum of elements" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While loops/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/While loops/What does the code print (1)" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

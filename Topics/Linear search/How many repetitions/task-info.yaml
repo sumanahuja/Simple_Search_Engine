@@ -1,0 +1,23 @@
+type: dataset
+custom_name: How many repetitions?
+files:
+- name: src/Main.kt
+  visible: true
+  text: "// write your code here \n\nfun main(args: Array<String>) {\n  // put your\
+    \ code here\n}\n"
+  learner_created: false
+- name: data/sample/input.txt
+  visible: true
+  text: |
+    5
+    6 0 0 7 4 2 7 6 6 0 3 2 9 3 3 9 7 8 0 9 8 7 2 8 6 6 0 2 9 6 7 6 5 9 0 2 3 0 5 3 3 6 9 0 4 4 7 1 4 6 4 5 0 7 8 2 3 4 2 1 8 0 3 2 5 7 3 8 2 2 8 6 8 9 7 9 2 3 5 5 1 7 6 3 8 6 3 8 1 9 7 6 5 9 9 2 2 3 7 7
+  learner_created: false
+- name: src/input.txt
+  visible: true
+  learner_created: true
+- name: data/dataset/input.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/16616#comment
+status: Unchecked
+record: -1

@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun names(namesList: List<String>): List<String> {
+        var count = 0
+        val nameCount = mutableListOf<String>()
+        //
+        // add your code here
+        //
+        return nameCount
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23009#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 3. Wrong answer
+  time: "Sat, 07 Jan 2023 05:18:02 UTC"
+record: -1
